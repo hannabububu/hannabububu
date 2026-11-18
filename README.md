@@ -1,4 +1,9 @@
-Security & Privacy Portfolio
+# 조한나 | Hanna Cho 👋
+
+성신여자대학교 융합보안공학과
+
+개인정보보호와 기업 보안 관리 분야에 관심이 있으며,
+보안 프로젝트를 통해 경험을 쌓아가고 있습니다.
 
 
 ## Interests
